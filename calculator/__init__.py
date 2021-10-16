@@ -1,0 +1,1 @@
+from calculator.calc_fair_dice import *

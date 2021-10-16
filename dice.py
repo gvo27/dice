@@ -1,5 +1,5 @@
 import warnings
-from calc_fair_dice import *
+from calculator import *
 
 warnings.filterwarnings("ignore")
 
@@ -19,5 +19,3 @@ if __name__ == '__main__':
             break
     
     print("terminated")
-
-# testing commits
